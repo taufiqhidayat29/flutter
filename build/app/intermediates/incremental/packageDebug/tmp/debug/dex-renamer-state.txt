@@ -1,0 +1,4 @@
+#Sun May 05 10:56:55 ICT 2019
+base.0=E\:\\Taufiq Hidayat\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
